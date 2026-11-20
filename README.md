@@ -32,3 +32,4 @@ See `Ecommerce_Sales_Analytics_Dashboard.xlsb` in this repository.
 
 ## Disclaimer
 This project uses publicly available UCI Online Retail data. It is an independent academic portfolio project and is not affiliated with Myntra.
+![E-Commerce Sales Dashboard](image.png)
